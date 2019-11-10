@@ -1,0 +1,802 @@
+[
+    {
+        "author": "prostoalex",
+        "comments": 33,
+        "points": 655,
+        "rank": 1,
+        "title": "Undercover reporter reveals life in a Polish troll farm",
+        "uri": "https://www.theguardian.com/world/2019/nov/01/undercover-reporter-reveals-life-in-a-polish-troll-farm"
+    },
+    {
+        "author": "Reedx",
+        "comments": 47,
+        "points": 334,
+        "rank": 2,
+        "title": "U of Chicago projected to be the first U.S. university to cost $100k per year",
+        "uri": "https://hechingerreport.org/university-of-chicago-projected-to-be-the-first-u-s-university-to-charge-100000-a-year/"
+    },
+    {
+        "author": "dsr12",
+        "comments": 54,
+        "points": 1443,
+        "rank": 3,
+        "title": "Extract voice, piano, drums, etc. from any music track",
+        "uri": "https://github.com/deezer/spleeter"
+    },
+    {
+        "author": "azhenley",
+        "comments": 9,
+        "points": 285,
+        "rank": 4,
+        "title": "RISC-V OS Using Rust: Memory Management Unit",
+        "uri": "http://osblog.stephenmarz.com/ch3.2.html"
+    },
+    {
+        "author": "deepersprout",
+        "comments": 27,
+        "points": 764,
+        "rank": 5,
+        "title": "PostgREST",
+        "uri": "https://postgrest.org/"
+    },
+    {
+        "author": "capableweb",
+        "comments": 82,
+        "points": 822,
+        "rank": 6,
+        "title": "Gitlab considers not hiring SREs and Support Engineers in China and Russia",
+        "uri": "https://gitlab.com/gitlab-com/www-gitlab-com/issues/5555"
+    },
+    {
+        "author": "minimaxir",
+        "comments": 54,
+        "points": 289,
+        "rank": 7,
+        "title": "Designing the Facebook Company Brand",
+        "uri": "https://facebook.design/companybrand"
+    },
+    {
+        "author": "grzm",
+        "comments": 12,
+        "points": 295,
+        "rank": 8,
+        "title": "A woman with a rare genetic mutation that has protected her from dementia",
+        "uri": "https://www.nytimes.com/2019/11/04/health/alzheimers-treatment-genetics.html"
+    },
+    {
+        "author": "gator-io",
+        "comments": 40,
+        "points": 798,
+        "rank": 9,
+        "title": "Encrypted web traffic now exceeds 90%",
+        "uri": "https://netmarketshare.com/report.aspx?options=%7B%22filter%22%3A%7B%7D%2C%22dateLabel%22%3A%22Custom%22%2C%22attributes%22%3A%22share%22%2C%22group%22%3A%22secure%22%2C%22sort%22%3A%7B%22share%22%3A-1%7D%2C%22id%22%3A%22https%22%2C%22dateInterval%22%3A%22Monthly%22%2C%22dateStart%22%3A%222019-10%22%2C%22dateEnd%22%3A%222019-10%22%2C%22segments%22%3A%22-1000%22%7D"
+    },
+    {
+        "author": "grzm",
+        "comments": 43,
+        "points": 167,
+        "rank": 10,
+        "title": "Apple Commits $2.5B to Ease California Housing Crunch",
+        "uri": "https://www.nytimes.com/2019/11/04/technology/apple-california-housing-crisis.html"
+    },
+    {
+        "author": "prostoalex",
+        "comments": 21,
+        "points": 347,
+        "rank": 11,
+        "title": "The trillion-dollar lawsuit against Tether",
+        "uri": "https://danco.substack.com/p/the-trillion-dollar-lawsuit-part?token=eyJ1c2VyX2lkIjo2MTQwNiwicG9zdF9pZCI6MTYwNDE1LCJfIjoiR04vbWEiLCJpYXQiOjE1NzI4Mjk2NDksImV4cCI6MTU3MjgzMzI0OSwiaXNzIjoicHViLTg2MjMiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.LEnAhs6P88d7mEmzqAZmdP2O767cIwRI73guebuO6L4"
+    },
+    {
+        "author": "hakanderyal",
+        "comments": 20,
+        "points": 846,
+        "rank": 12,
+        "title": "Build Your Own X",
+        "uri": "https://github.com/danistefanovic/build-your-own-x"
+    },
+    {
+        "author": "fruty",
+        "comments": 5,
+        "points": 142,
+        "rank": 13,
+        "title": "Deep Learning in the Real World: Dealing with Non-Differentiable Loss Functions",
+        "uri": "https://fruty.io/2019/11/04/deep-learning-in-the-real-world-how-to-deal-with-non-differentiable-loss-functions/"
+    },
+    {
+        "author": "geordilaforge",
+        "comments": 12,
+        "points": 183,
+        "rank": 14,
+        "title": "What SQL Analysts Need to Know About Python (2016)",
+        "uri": "https://segment.com/blog/sql-vs-python/"
+    },
+    {
+        "author": "shantara",
+        "comments": 50,
+        "points": 592,
+        "rank": 15,
+        "title": "Ubiquiti adds phone-home to the access point firmware",
+        "uri": "https://community.ui.com/questions/UI-official-urgent-please-answer/14259289-e4c3-4c5e-aaa0-02a5baa6cbbe"
+    },
+    {
+        "author": "gootel",
+        "comments": 28,
+        "points": 336,
+        "rank": 16,
+        "title": "Audio Fingerprinting using the AudioContext API",
+        "uri": "https://iq.opengenus.org/audio-fingerprinting/"
+    },
+    {
+        "author": "mring33621",
+        "comments": 8,
+        "points": 126,
+        "rank": 17,
+        "title": "Build OpenJDK for a Nice Speedup",
+        "uri": "http://august.nagro.us/optimized-openjdk.html"
+    },
+    {
+        "author": "ciconia",
+        "comments": 24,
+        "points": 384,
+        "rank": 18,
+        "title": "'Alarming' loss of insects and spiders recorded",
+        "uri": "https://www.bbc.com/news/science-environment-50226367"
+    },
+    {
+        "author": "jrsinclair",
+        "comments": 12,
+        "points": 348,
+        "rank": 19,
+        "title": "Algebraic Structures: Things I wish someone had explained about FP",
+        "uri": "https://jrsinclair.com/articles/2019/algebraic-structures-what-i-wish-someone-had-explained-about-functional-programming/"
+    },
+    {
+        "author": "robin_reala",
+        "comments": 32,
+        "points": 413,
+        "rank": 20,
+        "title": "Pure CSS \u2013 Lace",
+        "uri": "https://diana-adrianne.com/purecss-lace/"
+    },
+    {
+        "author": "thunderbong",
+        "comments": 21,
+        "points": 298,
+        "rank": 21,
+        "title": "Magnet doubles hydrogen yield from water splitting",
+        "uri": "https://cen.acs.org/articles/97/web/2019/06/Magnet-doubles-hydrogen-yield-water.html"
+    },
+    {
+        "author": "gk1",
+        "comments": 6,
+        "points": 410,
+        "rank": 22,
+        "title": "SSH Handshake Explained",
+        "uri": "https://gravitational.com/blog/ssh-handshake-explained/"
+    },
+    {
+        "author": "jkuria",
+        "comments": 21,
+        "points": 394,
+        "rank": 23,
+        "title": "AMD is having its day",
+        "uri": "https://www.economist.com/business/2019/10/31/amd-a-chipmaking-underdog-is-having-its-day"
+    },
+    {
+        "author": "fanf2",
+        "comments": 42,
+        "points": 316,
+        "rank": 24,
+        "title": "Stop using low DNS TTLs",
+        "uri": "https://00f.net/2019/11/03/stop-using-low-dns-ttls/"
+    },
+    {
+        "author": "mikl",
+        "comments": 23,
+        "points": 612,
+        "rank": 25,
+        "title": "Setting up a home VPN server with WireGuard",
+        "uri": "https://mikkel.hoegh.org/2019/11/01/home-vpn-server-wireguard"
+    },
+    {
+        "author": "luu",
+        "comments": 41,
+        "points": 379,
+        "rank": 26,
+        "title": "Shared Cache Is Going Away",
+        "uri": "https://www.jefftk.com/p/shared-cache-is-going-away"
+    },
+    {
+        "author": "lukethomas",
+        "comments": 25,
+        "points": 328,
+        "rank": 27,
+        "title": "The manager\u2019s schedule is holding remote work back",
+        "uri": "https://medium.com/@lukethomas14/the-managers-schedule-is-holding-remote-work-back-f9c1302ac6f3"
+    },
+    {
+        "author": "pseudolus",
+        "comments": 58,
+        "points": 879,
+        "rank": 28,
+        "title": "I Got Access to My Secret Consumer Score",
+        "uri": "https://www.nytimes.com/2019/11/04/business/secret-consumer-score-access.html"
+    },
+    {
+        "author": "pseudolus",
+        "comments": 31,
+        "points": 323,
+        "rank": 29,
+        "title": "Alcohol breath tests are often unreliable",
+        "uri": "https://www.nytimes.com/2019/11/03/business/drunk-driving-breathalyzer.html"
+    },
+    {
+        "author": "pseudolus",
+        "comments": 28,
+        "points": 291,
+        "rank": 30,
+        "title": "Flood of Oil Is Coming, Complicating Efforts to Fight Global Warming",
+        "uri": "https://www.nytimes.com/2019/11/03/business/energy-environment/oil-supply.html"
+    },
+    {
+        "author": "niccl",
+        "comments": 54,
+        "points": 369,
+        "rank": 31,
+        "title": "I tried to adjust the time on my alarm clock",
+        "uri": "https://devblogs.microsoft.com/oldnewthing/20191104-01/?p=103052"
+    },
+    {
+        "author": "danShumway",
+        "comments": 15,
+        "points": 102,
+        "rank": 32,
+        "title": "A New Digital Manifesto",
+        "uri": "https://anewdigitalmanifesto.com/"
+    },
+    {
+        "author": "dnetesn",
+        "comments": 7,
+        "points": 224,
+        "rank": 33,
+        "title": "Plants communicate, nurture their seedlings, and get stressed",
+        "uri": "http://nautil.us/issue/77/underworlds/never-underestimate-the-intelligence-of-trees"
+    },
+    {
+        "author": "rahuldottech",
+        "comments": 56,
+        "points": 345,
+        "rank": 34,
+        "title": "NeverSSL",
+        "uri": "http://fdbhclmrkstnvwxz.neverssl.com/online"
+    },
+    {
+        "author": "kemyd",
+        "comments": 20,
+        "points": 293,
+        "rank": 35,
+        "title": "Show HN: Tailwind Builder \u2013 online editor for the Tailwind CSS framework",
+        "uri": "https://tailwind.build/"
+    },
+    {
+        "author": "pseudolus",
+        "comments": 18,
+        "points": 254,
+        "rank": 36,
+        "title": "The Money Farmers: How Oligarchs and Populists Milk the E.U.",
+        "uri": "https://www.nytimes.com/2019/11/03/world/europe/eu-farm-subsidy-hungary.html"
+    },
+    {
+        "author": "pseudolus",
+        "comments": 42,
+        "points": 185,
+        "rank": 37,
+        "title": "Lone Bitcoin Whale Likely Fueled 2017 Price Surge, Study Says",
+        "uri": "https://www.bloomberg.com/news/articles/2019-11-04/lone-bitcoin-whale-likely-fueled-2017-price-surge-study-says"
+    },
+    {
+        "author": "mstats",
+        "comments": 5,
+        "points": 75,
+        "rank": 38,
+        "title": "Recordings of Maine\u2019s Passamaquoddy Tribe restored more than a century later",
+        "uri": "https://artscanvas.org/arts-culture/historic-recordings-of-maines-passamaquoddy-tribe-restored-more-than-a-century-later"
+    },
+    {
+        "author": "incanus77",
+        "comments": 10,
+        "points": 306,
+        "rank": 39,
+        "title": "An always-available, online-capable Raspberry Pi in your pocket",
+        "uri": "https://justinmiller.io/posts/2019/09/21/pi-gadget/"
+    },
+    {
+        "author": "r4um",
+        "comments": 17,
+        "points": 209,
+        "rank": 40,
+        "title": "DNS Wars",
+        "uri": "https://www.potaroo.net/ispcol/2019-11/dnswars.html"
+    },
+    {
+        "author": "ingve",
+        "comments": 53,
+        "points": 414,
+        "rank": 41,
+        "title": "They Might Never Tell You It\u2019s Broken",
+        "uri": "https://pointersgonewild.com/2019/11/02/they-might-never-tell-you-its-broken/"
+    },
+    {
+        "author": "rwmj",
+        "comments": 8,
+        "points": 49,
+        "rank": 42,
+        "title": "The Alpha Micro Phun Machine: Mid 90s Motorola ColdFire/68K-Based Desktop PCS",
+        "uri": "http://ampm.floodgap.com/"
+    },
+    {
+        "author": "EndXA",
+        "comments": 10,
+        "points": 243,
+        "rank": 43,
+        "title": "Living skin can be 3D-printed, with blood vessels",
+        "uri": "https://news.rpi.edu/content/2019/11/01/living-skin-can-now-be-3d-printed-blood-vessels-included"
+    },
+    {
+        "author": "starbugs",
+        "comments": 16,
+        "points": 224,
+        "rank": 44,
+        "title": "LocalStack \u2013 A fully-functional local AWS cloud stack",
+        "uri": "https://github.com/atlassian/localstack"
+    },
+    {
+        "author": "Reedx",
+        "comments": 8,
+        "points": 151,
+        "rank": 45,
+        "title": "Why cement emissions matter for climate change (2018)",
+        "uri": "https://www.carbonbrief.org/qa-why-cement-emissions-matter-for-climate-change"
+    },
+    {
+        "author": "asciimike",
+        "comments": 21,
+        "points": 120,
+        "rank": 46,
+        "title": "YC, not Lambda School, is unbundling education",
+        "uri": "https://medium.com/swlh/y-combinator-not-lambda-school-is-unbundling-education-bd6fdf0c78d7"
+    },
+    {
+        "author": "Lammy",
+        "comments": 7,
+        "points": 181,
+        "rank": 47,
+        "title": "Windows XP minimal-requirement experiments (2006)",
+        "uri": "https://www.winhistory.de/more/386/xpmini.htm"
+    },
+    {
+        "author": "gglitch",
+        "comments": 15,
+        "points": 229,
+        "rank": 48,
+        "title": "Minimal Viable Programs (2014)",
+        "uri": "https://joearms.github.io/published/2014-06-25-minimal-viable-program.html"
+    },
+    {
+        "author": "ingve",
+        "comments": 7,
+        "points": 247,
+        "rank": 49,
+        "title": "Ray Tracing a Tiny Procedural Planet [pdf]",
+        "uri": "https://casual-effects.com/research/McGuire2019ProcGen/McGuire2019ProcGen.pdf"
+    },
+    {
+        "author": "hardillb",
+        "comments": 9,
+        "points": 235,
+        "rank": 50,
+        "title": "Raspberry Pi 4 as a USB-C peripheral",
+        "uri": "https://www.hardill.me.uk/wordpress/2019/11/02/pi4-usb-c-gadget/"
+    },
+    {
+        "author": "adulau",
+        "comments": 2,
+        "points": 45,
+        "rank": 51,
+        "title": "Finding potential software vulnerabilities from Git commit messages",
+        "uri": "https://github.com/cve-search/git-vuln-finder"
+    },
+    {
+        "author": "protomyth",
+        "comments": 5,
+        "points": 87,
+        "rank": 52,
+        "title": "CPU of the Day: Motorola MC68040VL",
+        "uri": "http://www.cpushack.com/2019/11/01/cpu-of-the-day-motorola-mc68040vl/"
+    },
+    {
+        "author": "davidbarker",
+        "comments": 16,
+        "points": 228,
+        "rank": 53,
+        "title": "Homebrew Cray-1A",
+        "uri": "https://www.chrisfenton.com/homebrew-cray-1a/"
+    },
+    {
+        "author": "bhauer",
+        "comments": 21,
+        "points": 202,
+        "rank": 54,
+        "title": "Update: UniFi Phone Home/Performance Data Collection",
+        "uri": "https://community.ui.com/questions/Update-UniFi-Phone-Home-Performance-Data-Collection/f84a71c9-0b81-4d69-a3b3-45640aba1c8b"
+    },
+    {
+        "author": "doener",
+        "comments": 7,
+        "points": 127,
+        "rank": 55,
+        "title": "Illumos is a Unix operating system which provides next-generation features",
+        "uri": "https://www.illumos.org/"
+    },
+    {
+        "author": "AlexITC",
+        "comments": 24,
+        "points": 131,
+        "rank": 56,
+        "title": "GitHub Sponsors is now out of beta in 30 countries",
+        "uri": "https://github.blog/2019-11-04-github-sponsors-is-now-out-of-beta-in-30-countries/"
+    },
+    {
+        "author": "mooreds",
+        "comments": 47,
+        "points": 203,
+        "rank": 57,
+        "title": "Ask HN: How do you roll back production?",
+        "uri": "self-post from HN"
+    },
+    {
+        "author": "mgreg",
+        "comments": 10,
+        "points": 68,
+        "rank": 58,
+        "title": "\u2018Silicon Valley,\u2019 S6E2 \u2013 a billion dollars to violate your principles",
+        "uri": "https://padailypost.com/2019/11/04/silicon-valley-season-6-episode-2-a-billion-dollars-to-violate-your-principles/"
+    },
+    {
+        "author": "prostoalex",
+        "comments": 10,
+        "points": 170,
+        "rank": 59,
+        "title": "Adding Client-Side Scanning Breaks End-to-End Encryption",
+        "uri": "https://www.eff.org/deeplinks/2019/11/why-adding-client-side-scanning-breaks-end-end-encryption"
+    },
+    {
+        "author": "pabs3",
+        "comments": 2,
+        "points": 176,
+        "rank": 60,
+        "title": "Fossjobs.net: jobs that improve and involve FOSS or open hardware projects",
+        "uri": "https://www.fossjobs.net/"
+    },
+    {
+        "author": "ilamont",
+        "comments": 16,
+        "points": 261,
+        "rank": 61,
+        "title": "L.A. temporarily suspends Uber\u2019s permit to rent out electric scooters and bikes",
+        "uri": "https://www.latimes.com/california/story/2019-11-04/los-angeles-suspends-uber-jump-scooters-bikes-data-privacy"
+    },
+    {
+        "author": "protontypes",
+        "comments": 9,
+        "points": 149,
+        "rank": 62,
+        "title": "Robotics Development Environment with ROS in C++ and Python",
+        "uri": "https://github.com/Ly0n/awesome-robotic-tooling"
+    },
+    {
+        "author": "ohjeez",
+        "comments": 22,
+        "points": 114,
+        "rank": 63,
+        "title": "Doodling can help you pay attention",
+        "uri": "https://www.cnet.com/news/doodling-can-help-you-pay-attention/"
+    },
+    {
+        "author": "gioscarab",
+        "comments": 10,
+        "points": 184,
+        "rank": 64,
+        "title": "PJON 12.0 \u2013 Networking freedom for hackers, makers and experimenters",
+        "uri": "https://github.com/gioblu/PJON"
+    },
+    {
+        "author": "bookofjoe",
+        "comments": 29,
+        "points": 122,
+        "rank": 65,
+        "title": "Evolution of the Scrollbar",
+        "uri": "https://scrollbars.matoseb.com/"
+    },
+    {
+        "author": "dsgerard",
+        "comments": 4,
+        "points": 32,
+        "rank": 66,
+        "title": "Obscure Model Puts a Price on Good Health and Drives Down Drug Costs",
+        "uri": "https://www.wsj.com/articles/obscure-model-puts-a-price-on-good-healthand-drives-down-drug-costs-11572885123?mod=rsswn"
+    },
+    {
+        "author": "elorant",
+        "comments": 8,
+        "points": 49,
+        "rank": 67,
+        "title": "Americans lose $50M to phone scams in the last year",
+        "uri": "https://www.kshb.com/news/national/americans-lose-50-million-to-phone-scams-in-the-last-year"
+    },
+    {
+        "author": "troydavis",
+        "comments": 6,
+        "points": 35,
+        "rank": 68,
+        "title": "The Horizons of Instrument Design: A Conversation with Don Buchla (1982)",
+        "uri": "https://www.keyboardmag.com/artists/the-horizons-of-instrument-design-a-conversation-with-don-buchla"
+    },
+    {
+        "author": "justinclift",
+        "comments": 6,
+        "points": 146,
+        "rank": 69,
+        "title": "An Open Source 4-Port High Power USB Hub",
+        "uri": "https://github.com/dilshan/usb2-power-hub"
+    },
+    {
+        "author": "mooreds",
+        "comments": 7,
+        "points": 63,
+        "rank": 70,
+        "title": "Learn to Look Around Corners",
+        "uri": "https://letterstoanewdeveloper.com/2019/09/16/learn-to-look-around-corners/"
+    },
+    {
+        "author": "andreev_io",
+        "comments": 25,
+        "points": 150,
+        "rank": 71,
+        "title": "Avoid News: Towards a Healthy News Diet (2010) [pdf]",
+        "uri": "https://www.gwern.net/docs/culture/2010-dobelli.pdf"
+    },
+    {
+        "author": "billconan",
+        "comments": 0,
+        "points": 40,
+        "rank": 72,
+        "title": "Upscale 1080p anime to 4K in realtime with WebGL",
+        "uri": "https://epiphany.pub/@shi-yan/anime4k"
+    },
+    {
+        "author": "JNRowe",
+        "comments": 17,
+        "points": 206,
+        "rank": 73,
+        "title": "Major Mode for Reading EPUBs in Emacs",
+        "uri": "https://github.com/wasamasa/nov.el"
+    },
+    {
+        "author": "signa11",
+        "comments": 5,
+        "points": 91,
+        "rank": 74,
+        "title": "Laws, theories, principles and patterns that developers might find useful",
+        "uri": "https://github.com/dwmkerr/hacker-laws"
+    },
+    {
+        "author": "techtor",
+        "comments": 105,
+        "points": 155,
+        "rank": 75,
+        "title": "A CS degree is better than teaching yourself how to code?",
+        "uri": "https://zeroequalsfalse.com/posts/cs-degree-over-self-study/"
+    },
+    {
+        "author": "salgernon",
+        "comments": 3,
+        "points": 49,
+        "rank": 76,
+        "title": "Up5k_basic",
+        "uri": "https://github.com/emeb/up5k_basic/blob/master/README.md"
+    },
+    {
+        "author": "fagnerbrack",
+        "comments": 13,
+        "points": 160,
+        "rank": 77,
+        "title": "What Grace Hopper meant with \u201ceasier to ask forgiveness than to get permission\u201d",
+        "uri": "https://changelog.com/posts/what-admiral-grace-hopper-really-meant"
+    },
+    {
+        "author": "dredmorbius",
+        "comments": 11,
+        "points": 43,
+        "rank": 78,
+        "title": "Facebook Isn\u2019t Just Allowing Lies, It\u2019s Prioritizing Them",
+        "uri": "https://www.nytimes.com/2019/11/04/opinion/facebook-political-ads.html"
+    },
+    {
+        "author": "atombender",
+        "comments": 11,
+        "points": 111,
+        "rank": 79,
+        "title": "Rubber concrete that self-seals and is cheaper and more environmentally friendly",
+        "uri": "https://newatlas.com/materials/rubbery-crack-resistant-cement/"
+    },
+    {
+        "author": "fagnerbrack",
+        "comments": 15,
+        "points": 186,
+        "rank": 80,
+        "title": "Programming in 1969: An interview with a pioneer \u2013 my mum",
+        "uri": "http://www.ilikebigbits.com/2019_07_08_programming_in_1969.html"
+    },
+    {
+        "author": "ivank",
+        "comments": 12,
+        "points": 119,
+        "rank": 81,
+        "title": "SingleFileZ, a web extension for saving pages as HTML/ZIP hybrid files",
+        "uri": "https://github.com/gildas-lormeau/SingleFileZ"
+    },
+    {
+        "author": "NaOH",
+        "comments": 9,
+        "points": 69,
+        "rank": 82,
+        "title": "Widows on the Pain of Dining Alone",
+        "uri": "https://www.nytimes.com/2019/11/01/reader-center/readers-grief-dining.html"
+    },
+    {
+        "author": "mgaffney",
+        "comments": 10,
+        "points": 154,
+        "rank": 83,
+        "title": "Voyager 2\u2019s Discoveries from Interstellar Space",
+        "uri": "https://www.nytimes.com/2019/11/04/science/voyager-2-interstellar-solar-wind.html"
+    },
+    {
+        "author": "ingve",
+        "comments": 7,
+        "points": 184,
+        "rank": 84,
+        "title": "Leaving Apple",
+        "uri": "http://belkadan.com/blog/2019/11/Leaving-Apple/"
+    },
+    {
+        "author": "bmc7505",
+        "comments": 7,
+        "points": 75,
+        "rank": 85,
+        "title": "Kotlingrad: A shape-safe DSL for differentiable programming",
+        "uri": "https://github.com/breandan/kotlingrad"
+    },
+    {
+        "author": "pseudolus",
+        "comments": 4,
+        "points": 73,
+        "rank": 86,
+        "title": "Mathematicians Cut Apart Shapes to Find Pieces of Equations",
+        "uri": "https://www.quantamagazine.org/mathematicians-cut-apart-shapes-to-find-pieces-of-equations-20191031/"
+    },
+    {
+        "author": "Tomte",
+        "comments": 3,
+        "points": 35,
+        "rank": 87,
+        "title": "The Case of the Missing Barrels (2017)",
+        "uri": "https://www.lrb.co.uk/v39/n24/william-carter/diary"
+    },
+    {
+        "author": "matt_d",
+        "comments": 2,
+        "points": 86,
+        "rank": 88,
+        "title": "In-memory database acceleration on FPGAs: a survey",
+        "uri": "https://link.springer.com/article/10.1007/s00778-019-00581-w"
+    },
+    {
+        "author": "MrXOR",
+        "comments": 23,
+        "points": 121,
+        "rank": 89,
+        "title": "Stuxnet was embarrassing, not amazing (2011)",
+        "uri": "https://rdist.root.org/2011/01/17/stuxnet-is-embarrassing-not-amazing/"
+    },
+    {
+        "author": "jkuria",
+        "comments": 12,
+        "points": 91,
+        "rank": 90,
+        "title": "If You Can Manage a Waffle House, You Can Manage Anything",
+        "uri": "https://www.wsj.com/articles/if-you-can-manage-a-waffle-house-you-can-manage-anything-11572667205?mod=rsswn"
+    },
+    {
+        "author": "alexellisuk",
+        "comments": 24,
+        "points": 135,
+        "rank": 91,
+        "title": "Half of us have quit our job because of a bad boss (2015)",
+        "uri": "https://fortune.com/2015/04/02/quit-reasons/"
+    },
+    {
+        "author": "svenfaw",
+        "comments": 17,
+        "points": 122,
+        "rank": 92,
+        "title": "NoSnoop \u2013 Find out if your HTTPS traffic is being monitored",
+        "uri": "https://www.trustprobe.com/fs1/nosnoop.html"
+    },
+    {
+        "author": "SpaceInvader",
+        "comments": 7,
+        "points": 177,
+        "rank": 93,
+        "title": "FreeBSD 12.1",
+        "uri": "https://www.freebsd.org/releases/12.1R/relnotes.html"
+    },
+    {
+        "author": "plibither8",
+        "comments": 20,
+        "points": 91,
+        "rank": 94,
+        "title": "ShareDrop \u2013 P2P File Transfer Using WebRTC",
+        "uri": "https://sharedrop.io"
+    },
+    {
+        "author": "rbanffy",
+        "comments": 4,
+        "points": 79,
+        "rank": 95,
+        "title": "IBM Adds POWER9 AIO, Pushes for an Open Memory-Agnostic Interface",
+        "uri": "https://fuse.wikichip.org/news/2893/ibm-adds-power9-aio-pushes-for-an-open-memory-agnostic-interface/"
+    },
+    {
+        "author": "conse_lad",
+        "comments": 10,
+        "points": 91,
+        "rank": 96,
+        "title": "How Big Is a Proton?",
+        "uri": "https://sparkonit.com/2019/11/04/how-big-is-a-proton/"
+    },
+    {
+        "author": "brudgers",
+        "comments": 7,
+        "points": 115,
+        "rank": 97,
+        "title": "Zotonic: An Erlang Web Framework",
+        "uri": "http://zotonic.com/"
+    },
+    {
+        "author": "pythonist",
+        "comments": 7,
+        "points": 41,
+        "rank": 98,
+        "title": "I'll Take Pkg over Internal",
+        "uri": "https://travisjeffery.com/b/2019/11/i-ll-take-pkg-over-internal/"
+    },
+    {
+        "author": "stared",
+        "comments": 5,
+        "points": 76,
+        "rank": 99,
+        "title": "Information is Beautiful shortlist 2019",
+        "uri": "https://blog.smallmultiples.com.au/2019/10/18/weekly-inspirations-16/"
+    },
+    {
+        "author": "ivank",
+        "comments": 4,
+        "points": 76,
+        "rank": 100,
+        "title": "glChAoS.P: Real-time 3D strange attractors scout and hypercomplex fractals",
+        "uri": "https://github.com/BrutPitt/glChAoS.P"
+    }
+]
