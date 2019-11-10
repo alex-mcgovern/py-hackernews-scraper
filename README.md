@@ -1,7 +1,7 @@
 # Hacker News Scraper Test
 ---
 
-*A [`python`][python] & [`requests`][requests]-based [Hacker News][hn] scraper.*
+*A [`python`][python] & [`requests`][requests] based [Hacker News][hn] scraper.*
 
 ## Introduction
 
@@ -20,7 +20,7 @@ $ docker pull lxdesign/hackernews[:v1]
 ```
 ### How to Run
 
-To run hacker news use the following command:
+To run hackernews use the following command:
 
 ```bash
 $ docker run -v [OUTPUT_FILEPATH]:/src hackernews --posts [NUMBER_OF_POSTS]
@@ -50,7 +50,7 @@ Once the process is complete, the fetched data will be written to **hackerNewsTo
 
 * [`python`][python] — Used the included argparse & json libraries to handle basic arguments, parsing responses from HN & writing JSON output.
 * [`requests`][requests] — HTTP library for Python. Useful as it handles encoding and decoding with little effort from the programmer.
-* [`validators`][validators] — collection of validators for Python. Used to validate URI from HN posts.
+* [`validators`][validators] — A collection of validators for Python. Used to validate URI from HN posts.
 
 
 
