@@ -2,7 +2,7 @@
     {
         "author": "prostoalex",
         "comments": 33,
-        "points": 655,
+        "points": 656,
         "rank": 1,
         "title": "Undercover reporter reveals life in a Polish troll farm",
         "uri": "https://www.theguardian.com/world/2019/nov/01/undercover-reporter-reveals-life-in-a-polish-troll-farm"
@@ -98,7 +98,7 @@
     {
         "author": "fruty",
         "comments": 5,
-        "points": 142,
+        "points": 143,
         "rank": 13,
         "title": "Deep Learning in the Real World: Dealing with Non-Differentiable Loss Functions",
         "uri": "https://fruty.io/2019/11/04/deep-learning-in-the-real-world-how-to-deal-with-non-differentiable-loss-functions/"
@@ -184,20 +184,20 @@
         "uri": "https://www.economist.com/business/2019/10/31/amd-a-chipmaking-underdog-is-having-its-day"
     },
     {
-        "author": "fanf2",
-        "comments": 42,
-        "points": 316,
-        "rank": 24,
-        "title": "Stop using low DNS TTLs",
-        "uri": "https://00f.net/2019/11/03/stop-using-low-dns-ttls/"
-    },
-    {
         "author": "mikl",
         "comments": 23,
         "points": 612,
-        "rank": 25,
+        "rank": 24,
         "title": "Setting up a home VPN server with WireGuard",
         "uri": "https://mikkel.hoegh.org/2019/11/01/home-vpn-server-wireguard"
+    },
+    {
+        "author": "fanf2",
+        "comments": 42,
+        "points": 316,
+        "rank": 25,
+        "title": "Stop using low DNS TTLs",
+        "uri": "https://00f.net/2019/11/03/stop-using-low-dns-ttls/"
     },
     {
         "author": "luu",
@@ -210,7 +210,7 @@
     {
         "author": "lukethomas",
         "comments": 25,
-        "points": 328,
+        "points": 329,
         "rank": 27,
         "title": "The manager\u2019s schedule is holding remote work back",
         "uri": "https://medium.com/@lukethomas14/the-managers-schedule-is-holding-remote-work-back-f9c1302ac6f3"
@@ -218,7 +218,7 @@
     {
         "author": "pseudolus",
         "comments": 58,
-        "points": 879,
+        "points": 881,
         "rank": 28,
         "title": "I Got Access to My Secret Consumer Score",
         "uri": "https://www.nytimes.com/2019/11/04/business/secret-consumer-score-access.html"
@@ -440,20 +440,20 @@
         "uri": "https://www.illumos.org/"
     },
     {
-        "author": "AlexITC",
-        "comments": 24,
-        "points": 131,
-        "rank": 56,
-        "title": "GitHub Sponsors is now out of beta in 30 countries",
-        "uri": "https://github.blog/2019-11-04-github-sponsors-is-now-out-of-beta-in-30-countries/"
-    },
-    {
         "author": "mooreds",
         "comments": 47,
         "points": 203,
-        "rank": 57,
+        "rank": 56,
         "title": "Ask HN: How do you roll back production?",
         "uri": "self-post from HN"
+    },
+    {
+        "author": "AlexITC",
+        "comments": 24,
+        "points": 131,
+        "rank": 57,
+        "title": "GitHub Sponsors is now out of beta in 30 countries",
+        "uri": "https://github.blog/2019-11-04-github-sponsors-is-now-out-of-beta-in-30-countries/"
     },
     {
         "author": "mgreg",
@@ -584,20 +584,20 @@
         "uri": "https://github.com/wasamasa/nov.el"
     },
     {
-        "author": "signa11",
-        "comments": 5,
-        "points": 91,
-        "rank": 74,
-        "title": "Laws, theories, principles and patterns that developers might find useful",
-        "uri": "https://github.com/dwmkerr/hacker-laws"
-    },
-    {
         "author": "techtor",
         "comments": 105,
         "points": 155,
-        "rank": 75,
+        "rank": 74,
         "title": "A CS degree is better than teaching yourself how to code?",
         "uri": "https://zeroequalsfalse.com/posts/cs-degree-over-self-study/"
+    },
+    {
+        "author": "signa11",
+        "comments": 5,
+        "points": 91,
+        "rank": 75,
+        "title": "Laws, theories, principles and patterns that developers might find useful",
+        "uri": "https://github.com/dwmkerr/hacker-laws"
     },
     {
         "author": "salgernon",
@@ -696,20 +696,20 @@
         "uri": "https://www.lrb.co.uk/v39/n24/william-carter/diary"
     },
     {
-        "author": "matt_d",
-        "comments": 2,
-        "points": 86,
-        "rank": 88,
-        "title": "In-memory database acceleration on FPGAs: a survey",
-        "uri": "https://link.springer.com/article/10.1007/s00778-019-00581-w"
-    },
-    {
         "author": "MrXOR",
         "comments": 23,
         "points": 121,
-        "rank": 89,
+        "rank": 88,
         "title": "Stuxnet was embarrassing, not amazing (2011)",
         "uri": "https://rdist.root.org/2011/01/17/stuxnet-is-embarrassing-not-amazing/"
+    },
+    {
+        "author": "matt_d",
+        "comments": 2,
+        "points": 86,
+        "rank": 89,
+        "title": "In-memory database acceleration on FPGAs: a survey",
+        "uri": "https://link.springer.com/article/10.1007/s00778-019-00581-w"
     },
     {
         "author": "jkuria",
@@ -760,20 +760,20 @@
         "uri": "https://fuse.wikichip.org/news/2893/ibm-adds-power9-aio-pushes-for-an-open-memory-agnostic-interface/"
     },
     {
-        "author": "conse_lad",
-        "comments": 10,
-        "points": 91,
-        "rank": 96,
-        "title": "How Big Is a Proton?",
-        "uri": "https://sparkonit.com/2019/11/04/how-big-is-a-proton/"
-    },
-    {
         "author": "brudgers",
         "comments": 7,
         "points": 115,
-        "rank": 97,
+        "rank": 96,
         "title": "Zotonic: An Erlang Web Framework",
         "uri": "http://zotonic.com/"
+    },
+    {
+        "author": "conse_lad",
+        "comments": 10,
+        "points": 91,
+        "rank": 97,
+        "title": "How Big Is a Proton?",
+        "uri": "https://sparkonit.com/2019/11/04/how-big-is-a-proton/"
     },
     {
         "author": "pythonist",
